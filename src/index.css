@@ -404,7 +404,7 @@ Footer
 ===============
 */
 .footer {
-  background: red;
+  background: var(--clr-grey-1);
   text-align: center;
   padding-left: 2rem;
   padding-right: 2rem;
